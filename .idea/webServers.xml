@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7268feea-d6a9-4384-ba22-cbbf3bd06347" name="iutserveur" url="http://webinfo.iutmontp.univ-montp2.fr/~campsa/">
+        <fileTransfer rootFolder="/home/ann2/campsa/public_html/Portfolio" accessType="SFTP" host="162.38.222.93" port="6666" sshConfigId="a0b9d19c-f1a4-47e2-ae18-d5a17f548a3d" sshConfig="campsa@162.38.222.93:6666 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
